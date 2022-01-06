@@ -67,4 +67,8 @@ h2{
 }
 footer p{
     text-align: center;
+    color: white;
+}
+footer{
+    background-color: black;
 }
